@@ -1,5 +1,5 @@
 # Moveit
-A simple yet useful Pomodoro
+A simple and useful Pomodoro
 
 
 
